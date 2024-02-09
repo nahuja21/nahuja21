@@ -1,6 +1,6 @@
 - Welcome to my Github
 
-- I'm a student at Chapman University Studying Data science with a minor in Game Development
+- I'm a student at Chapman University studying Data Science with a minor in Game Development
 
 - C++, C#, and R are my preferred languages
 
